@@ -1,0 +1,7 @@
+Named after the `.plan` files for the `finger` tool on Unix systems, but more inspired by John Carmack's habit of filling these out when he was working on id Software games (from 1996 to 2010). [Give it a read](https://github.com/oliverbenns/john-carmack-plan), it's incredibly fun. Althought most of it is just lists of bugs fixed and features implemented, there's some personal opinions sprinkled inbetween, and they're an amazing window into the world of computers back then.
+
+I want to push myself to do the same - keep a log of what I've been doing. Sort of, because obviously nobody will be... ahem, `finger`ing me to read these. It's all going to be visible in this repo, and on my personal blog – not an actual blog post, they're too small for that and shouldn't warrant a full rebuild via the SSG, but a tiny titbit people can read.
+
+**How to read the log**
+
+I'll be logging things I worked on (not just code) that I can and want to share, but instead of delving into minute details, I'll focus on providing some personal insight on what I managed to achieve. Yes, I could share it on X Formerly Twitter or Bluesky, but that feels a bit too exhibitionistic to me. Social media are about insight that I find worth sharing with others, those .plan files are more about me than others. If anyone actually wants to read them, that's a different thing than me obnoxiously waving them on my timeline.
