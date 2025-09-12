@@ -1,7 +1,7 @@
 [personal website]
++ created baseline for the website in zola
++ added script to pull latest .plan from github, cache + render
++ added placeholder content
 
-+ I finally managed to put together something that I could call a v0.1.0 of my personal blog.
-+ Added a script to pull the latest .plan file, cache it, and render on the home page.
-+ Added some initial content as well.
-
-* This is maybe fourth version of my website and first one I feel comfortable publishing (when I finally get to it, of course). Anything before I tried to make look good, but it always circled back to either using a framework like bootstrap or bulma, or mimicking it. And then I felt like my blog looks like some cookie-cutter startup website. Current design looks... shoddy. It's inspired by the Gameboy handheld, and it reeks of "90s creative website design" which feels off-putting to me. But why? Is the design really this unwieldy, or am I just brainwashed by the endless stream of samey websites and anything that is different immediately feels off? Anyway, until next version, this design stays.
+[about the design]
+> It's maybe the fourth version of my website. First one I feel comfy publishing when I get to it. Feels good to make something that doesn't look like next cookie-cutter tech startup website, but instead shoddy and inspired by Gameboy. Here's a question: does this website look unwieldy, or am I brainwashed by the endless stream of samey websites and anything looking different immediately feels off? Anyway, until the next version, design stays.
